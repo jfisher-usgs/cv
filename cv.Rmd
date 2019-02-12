@@ -53,7 +53,8 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 - Best groundwater report of 2013 from a USGS Water Science Center for
   "Optimization of water-level monitoring networks in the eastern Snake River
-  Plain aquifer using a kriging-based genetic algorithm method".
+  Plain aquifer using a kriging-based genetic algorithm method",
+  [intranet](https://water.usgs.gov/usgs/ogw/best-report/).
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year.
 - Engineer-In-Training, [FE exam](http://ncees.org/engineering/fe/),
