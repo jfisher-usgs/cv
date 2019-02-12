@@ -144,7 +144,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - **Fisher, J.C.**, 2005, A coupled systems approach to solute transport within a
   heterogeneous vadose zone-groundwater environment: Ph.D. dissertation,
   University of California, Los Angeles, CA, 91 p.,
-  [pdf](/docs/PhD_Dissertation_Fisher.pdf).
+  [pdf](cv/docs/PhD_Dissertation_Fisher.pdf).
 - **Fisher, J.C.**, 2000, Simulation of partially saturated - saturated flow in
   the Caspar Creek E-Road groundwater system: M.S. thesis, Humboldt State
   University, Arcata, CA, 107 p.,
