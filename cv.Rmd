@@ -152,13 +152,12 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 ### Talks
 
-- R language training, organized by the U.S. Geological Survey,
-  Idaho Department of Water Resources,
+- R language training, organized by USGS Idaho Water Science Center,
   planned and delivered a full-day series of talks for staff scientists.
   Boise, ID, Oct. 4, 2016.
 - Wood River Valley groundwater-flow model training workshop,
-  organized by the U.S. Geological Survey, Idaho Department of Water Resources,
-  and the Idaho Department of Water Resources,
+  organized by the USGS Idaho Water Science Center
+  and the Idaho Department of Water Resources ([IDWR](https://idwr.idaho.gov/)),
   planned and delivered a full-day series of talks for staff scientists.
   Boise, ID, Oct. 5, 2016.
 - USGS National Groundwater Workshop,
