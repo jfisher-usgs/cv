@@ -28,7 +28,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 ### Employment
 
 - 2008--present, Hydrologist, U.S. Geological Survey
-  ([USGS](https://id.water.usgs.gov/INL/)),
+  ([USGS](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)),
   Idaho Water Science Center, Idaho National Laboratory Project Office.
 - 2008, Research Engineer, UCLA, Center for Embedded Networked Sensing
   ([CENS](http://research.cens.ucla.edu/)), research and lecturing duties.
