@@ -15,12 +15,12 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 ### Education
 
 - Ph.D. in Civil Engineering,
-  University of California Los Angeles ([UCLA](http://www.cee.ucla.edu/)),
+  University of California Los Angeles ([UCLA](https://www.cee.ucla.edu/)),
   hydrology and water resources program, received May 2005.
 - M.S. in Civil Engineering, UCLA, hydrology and water
   resources program, received March 2003.
 - M.S. in Environmental Systems, Humboldt State University
-  ([HSU](https://www2.humboldt.edu/engineering/)), environmental resources
+  ([HSU](https://engineering.humboldt.edu/)), environmental resources
   engineering option, received May 2000.
 - B.S. in Environmental Resources Engineering, HSU,
   water resources emphasis, received May 1998.
@@ -31,12 +31,12 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   ([USGS](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)),
   Idaho Water Science Center, Idaho National Laboratory Project Office.
 - 2008, Research Engineer, UCLA, Center for Embedded Networked Sensing
-  ([CENS](http://research.cens.ucla.edu/)), research and lecturing duties.
+  ([CENS](https://research.cens.ucla.edu/)), research and lecturing duties.
 - 2007--08, Project Scientist, University of California, Merced
-  ([UCM](https://eng.ucmerced.edu/soe/)), research and lecturing duties.
+  ([UCM](https://engineering.ucmerced.edu/)), research and lecturing duties.
 - 2005--08, Contractor: computer graphic design services for the American
   Institute of Biological Sciences, National Ecological Observatory Network
-  ([NEON](http://www.neoninc.org/)) group.
+  ([NEON](https://www.neonscience.org/)) group.
 - 2004--07, Postdoctoral Scholar, Department of Engineering, UCM, research
   and lecturing duties.
 - 2002--04, Graduate Research Assistant, Department of Civil and
@@ -57,7 +57,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   [intranet](https://water.usgs.gov/usgs/ogw/best-report/).
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year.
-- Engineer-In-Training, [FE exam](http://ncees.org/engineering/fe/),
+- Engineer-In-Training, [FE exam](https://ncees.org/engineering/fe/),
   license number XE104350, issued on Jan. 29, 1998.
 
 ### Publications
@@ -72,7 +72,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   McVay, Michael, 2016, Groundwater-flow model of the Wood River Valley
   aquifer system, south-central Idaho: U.S. Geological Survey
   Scientific Investigations Report 2016-5080, 71 p.,
-  <https://dx.doi.org/10.3133/sir20165080>.
+  <https://doi.org/10.3133/sir20165080>.
 - Twining, B.V., and **Fisher, J.C.**, 2015, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2011--13: U.S. Geological Survey Scientific
@@ -89,7 +89,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
   (DOE/ID-22224), 74 p.,
   <https://pubs.usgs.gov/sir/2013/5120/>,
-  [news](http://www.circleofblue.org/2013/world/moneyball-for-groundwater-monitoring-networks/).
+  [news](https://www.circleofblue.org/2013/world/moneyball-for-groundwater-monitoring-networks/).
 - Twining, B.V., and **Fisher, J.C.**, 2012, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2009--10: U.S. Geological Survey Scientific
@@ -164,7 +164,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   Reno, NV, Aug. 29, 2016,
   A case study in reproducible model building: simulating groundwater flow in
   the Wood River Valley aquifer system, Idaho.
-- The R User Conference ([useR!](http://user2016.org/)),
+- The R User Conference ([useR!](https://user2016.r-project.org/)),
   Stanford University, Stanford, CA, Jun. 28, 2016,
   A case study in reproducible model building: simulating groundwater flow in
   the Wood River Valley aquifer system, Idaho,
@@ -197,7 +197,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - AGU Fall Meeting, San Francisco, CA, Dec. 14, 2010,
   Multilevel groundwater monitoring of hydraulic head and temperature in the
   eastern Snake River Plain (ESRP) aquifer, 2007--08.
-- Idaho State University ([ISU](http://geology.isu.edu/)) Department of
+- Idaho State University ([ISU](https://isu.edu/geosciences/)) Department of
   Geosciences Colloquium, Pocatello, ID, Sep. 29, 2010, Multilevel groundwater
   monitoring of hydraulic head and temperature in the Eastern Snake River Plain
   aquifer, 2007 to 2008.
@@ -207,7 +207,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, Nov. 19,
   2009, Steady-state and transient models of groundwater flow and advective
   transport, Eastern Snake River Plain aquifer, INL and vicinity, Idaho.
-- American Water Resources Association ([AWRA](http://www.awra.org/)) Summer
+- American Water Resources Association ([AWRA](https://www.awra.org/)) Summer
   Specialty Conference, Missoula, MT, June 28, 2006, Multiscale river hydraulic
   and water quality observations combining stationary and mobile sensor network
   nodes.
