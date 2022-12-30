@@ -5,6 +5,7 @@ urlcolor: blue
 ---
 
 ORCiD: [0000-0001-9032-8912](https://orcid.org/0000-0001-9032-8912)&nbsp;
+GitLab: [jfisher](https://code.usgs.gov/jfisher)&nbsp;
 GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 ### Contact
@@ -12,22 +13,12 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - Email: <jfisher@usgs.gov>
 - Telephone: 209-261-2905
 
-### Education
-
-- Ph.D. in Civil Engineering,
-  University of California Los Angeles ([UCLA](https://www.cee.ucla.edu/)),
-  hydrology and water resources program, received May 2005.
-- M.S. in Civil Engineering, UCLA, hydrology and water
-  resources program, received March 2003.
-- M.S. in Environmental Systems, Humboldt State University
-  ([HSU](https://engineering.humboldt.edu/)), environmental resources
-  engineering option, received May 2000.
-- B.S. in Environmental Resources Engineering, HSU,
-  water resources emphasis, received May 1998.
-
 ### Employment
 
-- 2008--present, Hydrologist, U.S. Geological Survey
+- 2021--present, Lead Programmer, AQUARIUS Samples Integration Project
+  ([ASIP](https://doimspp.sharepoint.com/sites/usgs-portal/collaboration/sites/NWIS/Discrete-Samples/SitePages/Visitors%20Home.aspx))
+  Python and R Tools Team (PyRT).
+- 2008--present, Hydrologist, U.S. GeologAQUARIUS Samples Integration Project (ASIP) ical Survey
   ([USGS](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)),
   Idaho Water Science Center, Idaho National Laboratory Project Office.
 - 2008, Research Engineer, UCLA, Center for Embedded Networked Sensing
@@ -49,6 +40,19 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - 1997--00, Hydrologic Technician, U.S. Forest Service, Pacific Southwest
   Research Station, RSL.
 
+### Education
+
+- Ph.D. in Civil Engineering,
+  University of California Los Angeles ([UCLA](https://www.cee.ucla.edu/)),
+  hydrology and water resources program, received May 2005.
+- M.S. in Civil Engineering, UCLA, hydrology and water
+  resources program, received March 2003.
+- M.S. in Environmental Systems, Humboldt State University
+  ([HSU](https://engineering.humboldt.edu/)), environmental resources
+  engineering option, received May 2000.
+- B.S. in Environmental Resources Engineering, HSU,
+  water resources emphasis, received May 1998.
+
 ### Honors and Certificates
 
 - Best groundwater report of 2013 from a USGS Water Science Center for
@@ -62,12 +66,41 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 ### Publications
 
+- **Fisher, J.C.**, 2022,
+  inlpubs—Bibliographic information for the U.S. Geological Survey Idaho National Laboratory Project Office:
+  U.S. Geological Survey software release, R package, Reston, Va., <https://doi.org/10.5066/P9I3GWWU>.
+- **Fisher, J.C.**, 2021, ObsNetQW—Assessment of a water-quality aquifer monitoring network:
+  U.S. Geological Survey software release, R package, Reston, Va., <https://doi.org/10.5066/P9X71CSU>.
+- **Fisher, J.C.**, Bartholomay, R.C., Rattray, G.W., and Maimer, N.V., 2021,
+  Optimization of the Idaho National Laboratory water-quality aquifer monitoring network, southeastern Idaho:
+  U.S. Geological Survey Scientific Investigations Report 2021-5031 (DOE/ID-22252), 63 p.,
+  <https://doi.org/10.3133/sir20215031>.
+- Twining, B.V., Bartholomay, R.C., **Fisher, J.C.**, and Anderson, C., 2021,
+  Multilevel groundwater monitoring of hydraulic head, water temperature,
+  and chemical constituents in the eastern Snake River Plain aquifer, Idaho National Laboratory, Idaho,
+  2014u201318: U.S. Geological Survey Scientific Investigations Report 2021u20135002, 82 p.,
+  <https://doi.org/10.3133/sir20215002>.
+- Bartholomay, R.C., Maimer, N.V., Rattray, G.W., and **Fisher, J.C.**, 2020,
+  An update of hydrologic conditions and distribution of selected constituents in water,
+  Eastern Snake River Plain Aquifer and perched groundwater zones, Idaho National Laboratory, Idaho,
+  emphasis 2016–18: U.S. Geological Survey Scientific Investigations Report 2019–5149 (DOE/ID–22251), 82 p.,
+  <https://doi.org/10.3133/sir20195149>.
+- **Fisher, J.C.**, 2020,
+  inldata—Collection of datasets for the U.S. Geological Survey-Idaho National Laboratory Aquifer Monitoring Networks:
+  U.S. Geological Survey software release, R package, Reston, Va., <https://doi.org/10.5066/P9PP9UXZ>.
 - Bartholomay, R.C., Maimer, N.V., Rattray, G.W., and **Fisher, J.C.**, 2017,
   An update of hydrologic conditions and distribution of selected constituents in water,
   eastern Snake River Plain aquifer and perched groundwater zones,
   Idaho National Laboratory, Idaho, emphasis 2012--15: U.S. Geological Survey
   Scientific Investigations Report 2017-5021 (DOE/ID-22242), 87 p.,
   <https://doi.org/10.3133/sir20175021>.
+- **Fisher, J.C.**, 2019, *inlmisc*: Miscellaneous Functions for the USGS INL
+  Project Office. R package version 0.4.5,
+  <https://CRAN.R-project.org/package=inlmisc>.
+- Ihaka, R., Murrell, P., Hornik, K., **Fisher J.C.**, Stauffer, R.,
+  Wilke, C.O., McWhite, C.D., Zeileis, A., 2019,
+  *colorspace*: A Toolbox for Manipulating and Assessing Colors and Palettes.
+  R package version 1.4-0, <https://CRAN.R-project.org/package=colorspace>.
 - **Fisher, J.C.**, Bartolino, J.R., Wylie, A.H., Sukow, Jennifer, and
   McVay, Michael, 2016, Groundwater-flow model of the Wood River Valley
   aquifer system, south-central Idaho: U.S. Geological Survey
@@ -152,6 +185,16 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 ### Talks
 
+- INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, June 22, 2022,
+  Assessing the efficacy and appropriateness of an existing water-quality aquifer monitoring network.
+- Technical Architecture Review Board (TARB), May 20, 2022,
+  Application design assessment for the Discrete Sample Extensibility Tools (DSET) project.
+- USGS Water Missing Area Seminar Series, Feb. 2, 2022,
+  Assessing the efficacy and appropriateness of an existing water-quality aquifer monitoring network,
+  [intranet](https://water.usgs.gov/usgs/wma_seminar_series/fisher-020222.mp4).
+- Idaho Water Quality Workshop,
+  Boise, ID, Jan. 27, 2021,
+  Optimization of the Idaho National Laboratory Water-Quality Aquifer Monitoring Network.
 - Wood River Valley groundwater-flow model training workshop,
   organized by the USGS Idaho Water Science Center
   and the Idaho Department of Water Resources ([IDWR](https://idwr.idaho.gov/)),
@@ -236,22 +279,3 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - AGU Chapman Conference on State-of-the-Art in Hillslope Hydrology, Sunriver,
   OR, Oct. 8, 2001, Simulation of partially saturated--saturated flow in
   the Caspar Creek E-Road groundwater system.
-
-### Software
-
-- **Fisher, J.C.**, 2019, *inlmisc*: Miscellaneous Functions for the USGS INL
-  Project Office. R package version 0.4.5,
-  <https://CRAN.R-project.org/package=inlmisc>.
-- Ihaka, R., Murrell, P., Hornik, K., **Fisher J.C.**, Stauffer, R.,
-  Wilke, C.O., McWhite, C.D., Zeileis, A., 2019,
-  *colorspace*: A Toolbox for Manipulating and Assessing Colors and Palettes.
-  R package version 1.4-0, <https://CRAN.R-project.org/package=colorspace>.
-
-### Service
-
-- Reviewer: USGS,
-  [Journal of Hydrology](https://www.journals.elsevier.com/journal-of-hydrology/)
-
-### Organizations
-
-- Member of the American Geophysical Union, since 1998
