@@ -24,7 +24,7 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - Hydrologist, USGS Idaho Water Science Center, Idaho National Laboratory Project Office
   ([INLPO](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)),
   October 2008 to present, moved to 20 hours per week starting in October 2020.
-  Responsible for groundwater flow and contaminant transport modeling, optimization of long-term monitoring networks, and analysis of water-quality characteristics and trends. Mentoring 3 programmers.
+  Responsible for groundwater flow and contaminant transport modeling, optimization of long-term monitoring networks, and analysis of water-quality characteristics and trends. Mentoring 2 programmers.
 - Research Engineer, University of California, Los Angeles (UCLA) Center for Embedded Networked Sensing
   ([CENS](https://research.cens.ucla.edu/)), January to October 2008. Research and lecturing duties.
 - Project Scientist, University of California, Merced (UCM), January 2007 to January 2008.
