@@ -10,44 +10,21 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 
 ### Contact
 
-- Email: <jfisher@usgs.gov>
+- Email: <stormplot@gmail.com>
 - Telephone: 209-261-2905
 
 ### Employment
 
-- Lead Programmer, U.S. Geological Survey (USGS) AQUARIUS Samples Integration Project
-  ([ASIP](https://doimspp.sharepoint.com/sites/usgs-portal/collaboration/sites/NWIS/Discrete-Samples/SitePages/Visitors%20Home.aspx))
-  Python and R Tools (PyRT) Team, October 2020 to present, 20 hours per week.
-  Responsible for the technology choices, architecture decisions, and system design of the Discrete Sample Extensibility Tools
-  ([DSET](https://code.usgs.gov/pyrt/dset/dset)).
-  Mentoring a group of 5 programmers.
-- Hydrologist, USGS Idaho Water Science Center, Idaho National Laboratory Project Office
-  ([INLPO](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)),
-  October 2008 to present, moved to 20 hours per week starting in October 2020.
-  Responsible for groundwater flow and contaminant transport modeling, optimization of long-term monitoring networks, and analysis of water-quality characteristics and trends. Mentoring 2 programmers.
-- Research Engineer, University of California, Los Angeles (UCLA) Center for Embedded Networked Sensing
-  ([CENS](https://research.cens.ucla.edu/)), January to October 2008. Research and lecturing duties.
-- Project Scientist, University of California, Merced (UCM), January 2007 to January 2008.
-  Research and lecturing duties.
-- Contractor, American Institute of Biological Sciences, National Ecological Observatory Network
-  ([NEON](https://www.neonscience.org/)) group. January 2005 to October 2008, about 1 hour per week.
-  Responsible for graphic design services.
-- Postdoctoral Scholar, Department of Engineering, UCM, January 2004 to January 2008.
-  Research and lecturing duties.
-- Graduate Research Assistant, Department of Civil and
-  Environmental Engineering, UCLA, January 2002 to January 2004, 20 hours per week.
-  Research duties.
-- Teaching Assistant, Department of Civil and Environmental
-  Engineering, UCLA, January 2001 to January 2002, 20 hours per week.
-  Assisted students.
-- Computer Programmer, U.S. Forest Service, Pacific Southwest
-  Research Station, Redwood Sciences Laboratory
-  ([RSL](https://www.fs.fed.us/psw/locations/arcata/index.shtml)),
-  January 2000 to January 2002, 20 hours per week.
-  Data processing duties.
-- Hydrologic Technician, U.S. Forest Service, Pacific Southwest
-  Research Station, RSL, January 1997 to January 2000, 20 hours per week.
-  Data processing duties.
+- Lead Programmer, U.S. Geological Survey (USGS) AQUARIUS Samples Integration Project ([ASIP](https://doimspp.sharepoint.com/sites/usgs-portal/collaboration/sites/NWIS/Discrete-Samples/SitePages/Visitors%20Home.aspx)), Python and R Tools (PyRT) Team, October 2020 to present (20 hours per week). Responsible for making technology choices, architectural decisions, and system design for the Discrete Sample Extensibility Tools (DSET). The DSET team develops and maintains a suite of R packages designed to integrate with the third-party AQUARIUS Samples API ([Aquatic Informatics](https://aquaticinformatics.com/)). These enterprise-grade tools enable efficient input and output of over 144 million discrete water data records, while supporting robust quality control and analysis. Additionally, I mentor a team of five programmers to foster growth and collaboration.
+- Hydrologist, USGS Idaho Water Science Center, Idaho National Laboratory Project Office ([INLPO](https://www.usgs.gov/centers/id-water/science/idaho-national-laboratory-project-office)), October 2008 to present (transitioned to 20 hours per week in October 2020). Responsibilities include groundwater flow and contaminant transport modeling, optimizing long-term monitoring networks, and analyzing water-quality characteristics and trends. Additionally, I mentor a team of four programmers, fostering collaboration and technical growth. Public R packages developed and maintained by INLPO are available on [GitLab](https://code.usgs.gov/inl).
+- Research Engineer, University of California, Los Angeles (UCLA) Center for Embedded Networked Sensing ([CENS](https://research.cens.ucla.edu/)), January to October 2008. Research and lecturing duties.
+- Project Scientist, University of California, Merced (UCM), January 2007 to January 2008. Research and lecturing duties.
+- Contractor, American Institute of Biological Sciences, National Ecological Observatory Network ([NEON](https://www.neonscience.org/)) group. January 2005 to October 2008, about 1 hour per week. Responsible for graphic design services.
+- Postdoctoral Scholar, Department of Engineering, UCM, January 2004 to January 2008. Research and lecturing duties.
+- Graduate Research Assistant, Department of Civil and Environmental Engineering, UCLA, January 2002 to January 2004, 20 hours per week. Research duties.
+- Teaching Assistant, Department of Civil and Environmental Engineering, UCLA, January 2001 to January 2002, 20 hours per week. Assisted students.
+- Computer Programmer, U.S. Forest Service, Pacific Southwest Research Station, Redwood Sciences Laboratory ([RSL](https://www.fs.fed.us/psw/locations/arcata/index.shtml)), January 2000 to January 2002, 20 hours per week. Data processing duties.
+- Hydrologic Technician, U.S. Forest Service, Pacific Southwest Research Station, RSL, January 1997 to January 2000, 20 hours per week. Data processing duties.
 
 ### Education
 
@@ -61,6 +38,15 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
 - B.S. in Environmental Resources Engineering, HSU,
   water resources emphasis, received May 1998.
 
+### Software and Development Platforms
+
+### Tech Stack
+
+
+
+
+
+
 ### Honors and Certificates
 
 - Best groundwater report of 2013 from a USGS Water Science Center for
@@ -73,6 +59,19 @@ GitHub: [jfisher-usgs](https://github.com/jfisher-usgs)
   license number XE104350, issued on Jan. 29, 1998.
 
 ### Publications
+
+
+
+
+-
+
+
+
+
+
+
+
+
 
 - **Fisher, J.C.**, 2022,
   inlpubs—Bibliographic information for the U.S. Geological Survey Idaho National Laboratory Project Office:
