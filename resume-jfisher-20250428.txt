@@ -1,0 +1,394 @@
+Jason Fisher
+
+- Mobile: 2092612905
+- Email: jfisher@usgs.gov
+- ORCiD: 0000-0001-9032-8912
+- GitLab: code.usgs.gov/jfisher
+
+Availability:
+
+- Job Type: Permanent
+- Work Schedule: Full-time
+
+Work Experience:
+
+- Hydrologist
+  U.S. Geological Survey (This is a federal job)
+  1973 Helen Rd.
+  Pleasant Hill, CA
+  10/2008 - Present
+  Hours per week: 40
+  Series: 1315 Hydrology
+  Pay Plan: GS - General Schedule (Ch. 51, 5 U.S.C.).
+  Grade: 13
+  Duties, Accomplishments and Related Skills:
+  As a Hydrologist, key duties include leading complex hydrologic studies,
+  analyzing hydrologic data, and developing innovative methodologies to
+  address water resource challenges. I serve as the lead modeler for the
+  Idaho National Laboratory Project Office and hold a lead role in the
+  Python and R Tools group of the AQUARIUS Samples Integration Project,
+  where I supervise a team of programmers. Significant accomplishments
+  include publishing scientific reports and software releases. Essential
+  skills involve advanced data analysis, cross-disciplinary knowledge,
+  and strong communication, all crucial for effective project execution
+  and stakeholder engagement.
+  Supervisor: Brian Twining (208-526-2540)
+  Okay to contact this Supervisor: Yes
+
+- Project Scientist
+  University of California, Merced
+  5200 North Lake Rd.
+  Merced, CA
+  1/2007 - 1/2008
+  Hours per week: 40
+  Duties, Accomplishments and Related Skills:
+  Research and lecturing duties within the School of Engineering.
+  Supervisor: Dr. Thomas Harmon (209-228-4400)
+  Okay to contact this Supervisor: Yes
+
+- Postdoctoral Scholar
+  University of California, Merced
+  5200 Lake Rd.
+  Merced, CA
+  1/2004 - 1/2007
+  Hours per week: 40
+  Duties, Accomplishments and Related Skills:
+  Research and lecturing duties within the Civil and Environmental
+  Engineering Department.
+  Supervisor: Dr. Thomas Harmon (209-228-4400)
+  Okay to contact this Supervisor: Yes
+
+- Graduate Research Assistant
+  University of California, Los Angeles
+  405 Hilgard Avenue
+  Los Angeles, CA
+  1/2002 - 1/2004
+  Hours per week: 20
+  Duties, Accomplishments and Related Skills:
+  Research duties within the Department of Civil and Environmental
+  Engineering.
+
+- Teaching Assistant
+  University of California, Los Angeles
+  405 Hilgard Avenue
+  Los Angeles, CA
+  4/2001 - 1/2002
+  Hours per week: 20
+  Duties, Accomplishments and Related Skills:
+  Provided support and guidance to students in the Department of Civil
+  and Environmental Engineering.
+
+- Computer Programmer
+  U.S. Forest Service (This is a federal job)
+  1700 Bayview Drive
+  Arcata, CA
+  4/2000 - 4/2001
+  Hours per week: 20
+  Series: 0334 Computer Specialist (FAA Only)
+  Pay Plan: GS - General Schedule (Ch. 51, 5 U.S.C.).
+  This is a time-limited appointment or temporary promotion
+  Duties, Accomplishments and Related Skills:
+  Performed data processing tasks for the Redwood Sciences Laboratory.
+
+- Hydrologic Technician
+  U.S. Forest Service (This is a federal job)
+  1700 Bayview Drive
+  Arcata, CA
+  5/1997 - 4/2000
+  Hours per week: 20
+  Series: 1316 Hydrologic Technician
+  This is a time-limited appointment or temporary promotion
+  Duties, Accomplishments and Related Skills:
+  Performed data processing tasks for the Redwood Sciences Laboratory.
+
+Education:
+
+- University of California, Los Angeles
+  Los Angeles, CA United States
+  Doctorate degree 5 / 2005
+  Credits Earned: Quarter Hours
+  Major: Civil Engineering
+
+- University of California, Los Angeles
+  Los Angeles, CA United States
+  Master's degree 3 / 2003
+  Credits Earned: Quarter Hours
+  Major: Civil Engineering
+
+- Humboldt State University
+  Arcata, CA United States
+  Master's degree
+  Credits Earned: Semester Hours
+  Major: Environmental Systems
+
+- Humboldt State University
+  Arcata, CA United States
+  Bachelor's degree 5 / 1998
+  Credits Earned: Semester Hours
+  Major: Environmental Resources Engineering
+
+Job-Related Training:
+
+- Content Management System (CMS) Certification Course, May 2024.
+- Configuration, and Release Management Course, February 2024.
+- Course of Study in Docker, July 2021.
+- Introduction to High Performance Computing (HPC), March 2020.
+
+Professional Publications:
+
+- Fisher, J.C., and Twining, B.V., 2024, Multilevel Monitoring System (MLMS)
+  datasets for wells in the U.S. Geological Survey - Idaho National
+  Laboratory groundwater monitoring network: U.S. Geological Survey data
+  release, https://doi.org/10.5066/P144NWLJ.
+- Fisher, J.C., and Twining, B.V., 2024, mlms—Multilevel Monitoring System
+  (MLMS) data storage and processing for the U.S. Geological Survey Idaho
+  National Laboratory Project Office: U.S. Geological Survey software
+  release, R package, https://doi.org/10.5066/P9V6VCBO.
+- Fisher, J.C., Trcka, A.R., Treinen, K.C., 2024, Datasets for the
+  U.S. Geological Survey - Idaho National Laboratory groundwater and
+  surface-water monitoring networks, v1.1: U.S. Geological Survey data
+  release, https://doi.org/10.5066/P9UWRYR4.
+- Fisher, J.C., Trcka, A.R., Treinen, K.C., 2024, inldata—Collection of
+  datasets for the U.S. Geological Survey - Idaho National Laboratory
+  groundwater and surface-water monitoring networks, v1.1: U.S. Geological
+  Survey software release, R package, https://doi.org/10.5066/P9IAKQOR.
+- Treinen, K.C., Trcka, A.R., and Fisher, J.C., 2024, An update of hydrologic
+  conditions and distribution of selected constituents in water, eastern
+  Snake River aquifer and perched groundwater zones, Idaho National
+  Laboratory, Idaho, emphasis 2019—21: U.S. Geological Survey Scientific
+  Investigations Report 2023—5128 (DOE/ID-22261), 96 p.,
+  https://doi.org/10.3133/sir20235128.
+- Fisher, J.C., 2023, webmap—Interactive web maps using The National Map
+  (TNM) services: U.S. Geological Survey software release, R package,
+  Reston, Va., https://doi.org/10.5066/P9CPB1WD.
+- Fisher, J.C., 2023, inlcolor—Color palettes for the U.S. Geological
+  Survey Idaho National Laboratory Project Office: U.S. Geological Survey
+  software release, R package, Reston, Va.,
+  https://doi.org/10.5066/P93BDACR.
+- Fisher, J.C., 2022, inlpubs—Bibliographic information for the U.S.
+  Geological Survey Idaho National Laboratory Project Office: U.S. Geological
+  Survey software release, R package, Reston, Va.,
+  https://doi.org/10.5066/P9I3GWWU.
+- Twining, B.V., Bartholomay, R.C., Fisher, J.C., and Anderson, C., 2021,
+  Multilevel groundwater monitoring of hydraulic head, water temperature,
+  and chemical constituents in the eastern Snake River Plain aquifer, Idaho
+  National Laboratory, Idaho, 2014—18: U.S. Geological Survey Scientific
+  Investigations Report 2021—5002, 82 p.,
+  https://doi.org/10.3133/sir20215002.
+- Fisher, J.C., 2021, ObsNetQW—Assessment of a water-quality aquifer
+  monitoring network: U.S. Geological Survey software release, R package,
+  Reston, Va., https://doi.org/10.5066/P9X71CSU.
+- Fisher, J.C., Bartholomay, R.C., Rattray, G.W., and Maimer, N.V., 2021,
+  Optimization of the Idaho National Laboratory water-quality aquifer
+  monitoring network, southeastern Idaho: U.S. Geological Survey Scientific
+  Investigations Report 2021-5031 (DOE/ID-22252), 63 p.,
+  https://doi.org/10.3133/sir20215031.
+- Fisher, J.C., 2020, inldata—Collection of datasets for the U.S. Geological
+  Survey-Idaho National Laboratory Aquifer Monitoring Networks: U.S.
+  Geological Survey software release, R package, Reston, Va.,
+  https://doi.org/10.5066/P9PP9UXZ.
+- Bartholomay, R.C., Maimer, N.V., Rattray, G.W., and Fisher, J.C., 2020,
+  An update of hydrologic conditions and distribution of selected
+  constituents in water, Eastern Snake River Plain Aquifer and perched
+  groundwater zones, Idaho National Laboratory, Idaho, emphasis 2016—18:
+  U.S. Geological Survey Scientific Investigations Report 2019—5149
+  (DOE/ID—22251), 82 p., https://doi.org/10.3133/sir20195149.
+- Bartholomay, R.C., Maimer, N.V., Rattray, G.W., and Fisher, J.C., 2017,
+  An update of hydrologic conditions and distribution of selected
+  constituents in water, eastern Snake River Plain aquifer and perched
+  groundwater zones, Idaho National Laboratory, Idaho, emphasis 2012-15:
+  U.S. Geological Survey Scientific Investigations Report 2017—5021
+  (DOE/ID—22242), 87 p., https://doi.org/10.3133/sir20175021.
+- Davis, L.C., Bartholomay, R.C., Fisher, J.C., and Maimer, N.V., 2015,
+  Water-quality characteristics and trends for selected wells possibly
+  influenced by wastewater disposal at the Idaho National Laboratory, Idaho,
+  1981—2012: U.S. Geological Survey Scientific Investigations Report 2015—5003
+  (DOE/ID—22233), 110 p., https://doi.org/10.3133/sir20155003.
+- Twining, B.V., and Fisher, J.C., 2015, Multilevel groundwater monitoring of
+  hydraulic head and temperature in the eastern Snake River Plain aquifer,
+  Idaho National Laboratory, Idaho, 2011-13: U.S. Geological Survey Scientific
+  Investigations Report 2015—5042 (DOE/ID—22235), 49 p.,
+  https://doi.org/10.3133/sir20155042.
+- Fisher, J.C., 2013, Optimization of water-level monitoring networks in the
+  eastern Snake River Plain aquifer using a kriging-based genetic algorithm
+  method: U.S. Geological Survey Scientific Investigations Report 2013—5120
+  (DOE/ID—22224), 74 p., https://doi.org/10.3133/sir20135120.
+- Bartholomay, R.C., Davis, L.C., Fisher, J.C., Tucker, B.J., and Raben, F.A.,
+  2012, Water-quality characteristics and trends for selected sites at and
+  near the Idaho National Laboratory, Idaho, 1949—2009: U.S. Geological Survey
+  Scientific Investigations Report 2012—5169 (DOE/ID—22219), 68 p. plus
+  appendixes, https://doi.org/10.3133/sir20125169.
+- Fisher, J.C., Rousseau, J.P., Bartholomay, R.C, and Rattray, G.W., 2012, A
+  comparison of U.S. Geological Survey three-dimensional model estimates of
+  groundwater source areas and velocities to independently derived estimates,
+  Idaho National Laboratory and vicinity, Idaho: U.S. Geological Survey
+  Scientific Investigations Report 2012—5152 (DOE/ID—22218), 130 p.,
+  https://doi.org/10.3133/sir20122152.
+- Twining, B.V., and Fisher, J.C., 2012, Multilevel groundwater monitoring of
+  hydraulic head and temperature in the eastern Snake River Plain aquifer,
+  Idaho National Laboratory, Idaho, 2009-10: U.S. Geological Survey Scientific
+  Investigations Report 2012—5259, 44 p. plus appendixes,
+  https://doi.org/10.3133/sir20125259.
+- Fisher, J.C. and Twining, B.V., 2011, Multilevel groundwater monitoring of
+  hydraulic head and temperature in the eastern Snake River Plain aquifer,
+  Idaho National Laboratory, Idaho, 2007—08: U.S. Geological Survey Scientific
+  Investigations Report 2010—5253 (DOE/ID—22213), 62p.,
+  https://doi.org/10.3133/sir20105253.
+- Ackerman, D.J., Rousseau, J.P., Rattray, G.W., and Fisher, J.C., 2010,
+  Steady-state and transient models of groundwater flow and advective transport,
+  eastern Snake River Plain aquifer, Idaho National Laboratory and vicinity,
+  Idaho: U.S. Geological Survey Scientific Investigations Report 2010—5123
+  (DOE/ID—22209), 220 p., https://doi.org/10.3133/sir20105123.
+- Twining, B.V., Fisher, J.C., and Bartholomay, R.C., 2010, Completion summary
+  for well NRF-16 near the Naval Reactors Facility, Idaho National Laboratory,
+  Idaho: U.S. Geological Survey Scientific Investigations Report 2010—5101
+  (DOE/ID—22210), 36 p., https://doi.org/10.3133/sir20105101.
+- Rundel, P.W., Graham, E.A., Allen, M.F., Fisher, J.C., and Harmon, T.C.,
+  2009, Environmental sensor networks in ecological research: New Phytologist,
+  182(3), p. 589-607, http://dx.doi.org/10.1111/j.1469-8137.2009.02811.x.
+- Goldman, J., Ramanathan, N., Ambrose, R., Caron, D.A., Estrin, D., Fisher,
+  J.C., Gilbert, R., Hansen, M.H., Harmon, T.C., Jay, J., Kaiser, W.J.,
+  Sukhatme, G.S., and Tai, Y.-C., 2007, Distributed sensing systems for water
+  quality assessment and management: White Paper published and prepared by the
+  Foresight and Governance Project at the Woodrow Wilson International Center
+  for Scholars, 36 p.
+- Harmon, T.C., Ambrose, R.F., Gilbert, R.M., Fisher, J.C., Stealey, M., and
+  Kaiser, W.J., 2007, High resolution river hydraulic and water quality
+  characterization using rapidly deployable networked infomechanical systems
+  (NIMS RD): Environmental Engineering Science, 24(2), p. 151-159,
+  http://dx.doi.org/10.1089/ees.2006.0033.
+- Singh, M., Batalin, M., Chen, V., Stealey, M., Jordan, B., Fisher, J.C.,
+  Harmon, T.C., Hansen, M.H., and Kaiser, W.J., 2006, Autonomous robotic
+  sensing experiments at San Joaquin River: International Conference on
+  Robotics and Automation (43% acceptance rate), 8 p.,
+  http://dx.doi.org/10.1109/ROBOT.2007.364248.
+- Fisher, J.C., 2005, A coupled systems approach to solute transport within a
+  heterogeneous vadose zone-groundwater environment: Ph.D. dissertation,
+  University of California, Los Angeles, CA, 91 p.
+- Fisher, J.C., 2000, Simulation of partially saturated - saturated flow in
+  the Caspar Creek E-Road groundwater system: M.S. thesis, Humboldt State
+  University, Arcata, CA, 107 p., https://www.treesearch.fs.fed.us/pubs/7765.
+
+Professional Talks:
+
+- INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, June
+  22, 2022, Assessing the efficacy and appropriateness of an existing
+  water-quality aquifer monitoring network.
+- Technical Architecture Review Board (TARB), May 20, 2022, Application
+  design assessment for the Discrete Sample Extensibility Tools (DSET)
+  project.
+- USGS Water Missing Area Seminar Series, Feb. 2, 2022, Assessing the
+  efficacy and appropriateness of an existing water-quality aquifer
+  monitoring network.
+- Idaho Water Quality Workshop, Boise, ID, Jan. 27, 2021, Optimization of
+  the Idaho National Laboratory Water-Quality Aquifer Monitoring Network.
+- Wood River Valley groundwater-flow model training workshop, organized by
+  the USGS Idaho Water Science Center and the Idaho Department of Water
+  Resources (IDWR), planned and delivered a full-day series of talks for
+  staff scientists. Boise, ID, Oct. 5, 2016.
+- R language training, organized by USGS Idaho Water Science Center, planned
+  and delivered a full-day series of talks for staff scientists. Boise, ID,
+  Oct. 4, 2016.
+- USGS National Groundwater Workshop, Reno, NV, Aug. 29, 2016, A case study
+  in reproducible model building: simulating groundwater flow in the Wood
+  River Valley aquifer system, Idaho.
+- The R User Conference (useR!), Stanford University, Stanford, CA, Jun.
+  28, 2016, A case study in reproducible model building: simulating
+  groundwater flow in the Wood River Valley aquifer system, Idaho.
+- Wood River Valley Modeling Technical Advisory Committee (MTAC) meetings,
+  delivered talks at 14 of the full-day meetings. Hailey, ID, Mar. 2013
+  through Apr. 2015.
+- USGS Office of Groundwater cyber seminar series, Oct. 9, 2014, A path
+  toward reproducible research.
+- American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, Dec.
+  13, 2013, Optimization of water-table monitoring networks in the eastern
+  Snake River Plain aquifer using a kriging-based genetic algorithm method.
+- Water Resource Seminar Series, University of Idaho, ID, Sep. 3, 2013,
+  Optimization of water-level monitoring networks in the eastern Snake River
+  Plain aquifer using a kriging-based genetic algorithm method.
+- USGS National Water Data Conference, Portland, OR, Sep. 25, 2012,
+  Optimization of water-table monitoring networks in the eastern Snake River
+  Plain aquifer using a kriging-based genetic algorithm method.
+- Water Resource Seminar Series, University of Idaho, ID, Sep. 27, 2011, A
+  comparison of USGS 3-D model estimates of groundwater source areas and
+  velocities to independently-derived estimates, INL and vicinity.
+- INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, May
+  19, 2011, An evaluation of the USGS 3-D model using backward particle-
+  tracking to compare model-derived to independently-derived estimates of
+  the source and age of groundwater.
+- AGU Fall Meeting, San Francisco, CA, Dec. 14, 2010, Multilevel groundwater
+  monitoring of hydraulic head and temperature in the eastern Snake River
+  Plain (ESRP) aquifer, 2007—08.
+- Idaho State University (ISU) Department of Geosciences Colloquium,
+  Pocatello, ID, Sep. 29, 2010, Multilevel groundwater monitoring of
+  hydraulic head and temperature in the Eastern Snake River Plain aquifer,
+  2007 to 2008.
+- AGU Fall Meeting, San Francisco, CA, Dec. 15, 2009, Steady-state and
+  transient groundwater flow and advective transport, ESRP aquifer, Idaho
+  National Laboratory and vicinity, Idaho.
+- INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, Nov.
+  19, 2009, Steady-state and transient models of groundwater flow and
+  advective transport, Eastern Snake River Plain aquifer, INL and vicinity,
+  Idaho.
+- American Water Resources Association (AWRA) Summer Specialty Conference,
+  Missoula, MT, June 28, 2006, Multiscale river hydraulic and water
+  quality observations combining stationary and mobile sensor network nodes.
+- AWRA Annual Water Resources Conference, San Diego, CA, Nov. 8, 2003,
+  Modeling of conjunctive use systems impacted by natural sources of
+  groundwater contamination.
+
+Professional Posters:
+
+- AGU Fall Meeting, San Francisco, CA, Dec. 19, 2014, wrv: An R package for
+  groundwater flow model construction, Wood River Valley aquifer system, Idaho.
+- USGS National Groundwater Workshop, Denver, CO, Aug. 7, 2012, A
+  comparison of model estimates of groundwater source areas and velocities to
+  independently-derived estimates.
+- AGU Fall Meeting, San Francisco, CA, Dec. 7, 2011, Comparing model-derived
+  to independently-derived estimates of the source and age of groundwater,
+  Idaho National Laboratory and vicinity, Idaho.
+- AGU Fall Meeting, San Francisco, CA, Dec. 10, 2007, The Sierra Nevada-San
+  Joaquin Hydrologic Observatory: a WATERS network test bed.
+- AGU Joint Assembly, Baltimore, MD, May 25, 2006, Multiscale river
+  hydraulic and water quality observations combining stationary and mobile
+  sensor network nodes.
+- AGU Fall Meeting, San Francisco, CA, Dec. 15, 2004, A coupled systems
+  approach to solute transport within a heterogeneous vadose zone—groundwater
+  environment.
+- AGU Chapman Conference on State-of-the-Art in Hillslope Hydrology,
+  Sunriver, OR, Oct. 8, 2001, Simulation of partially saturated—saturated
+  flow in the Caspar Creek E-Road groundwater system.
+
+References:
+
+- Brian Twining, U.S. Geological Survey, INL Project Office Chief, 208-526-2540,
+  btwining@usgs.gov
+- Katherine Norton, U.S. Geological Survey, Physical Scientist, 360-993-8951,
+  knorton@usgs.gov
+- David Rus, U.S. Geological Survey, Lead Hydrologist, 402-328-4127,
+  dlrus@usgs.gov
+- Kerri Treinen, U.S. Geological Survey, Hydrologist, 208-387-1330,
+  ktreinen@usgs.gov
+
+Additional Information:
+
+- Best groundwater report of 2013 from a USGS Water Science Center for
+  "Optimization of water-level monitoring networks in the eastern Snake River
+  Plain aquifer using a kriging-based genetic algorithm method".
+- UCLA Civil and Environmental Engineering departmental fellowship, 2000-01
+  academic year.
+- Engineer-In-Training, FE exam, license number XE104350, issued January 1998.
+- R Programming: Strong proficiency in spatial and temporal data analysis,
+  statistical modeling, and visualization.
+- JavaScript: Experience in coding and interfacing for web applications and
+  interactive visualizations.
+- SQL: Skilled in database management and querying for efficient dataset
+  handling.
+- Docker: Proficient in creating and managing containers for reproducible
+  application deployment.
+- GitLab Pipelines: Experience with continuous integration and delivery
+  workflows.
+- Windows Subsystem for Linux (WSL): Utilized for running Linux tools in a
+  Windows environment.
+- Visual Studio Code (VS Code): Proficient user for coding, debugging, and
+  project management.
